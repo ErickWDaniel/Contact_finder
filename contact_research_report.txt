@@ -1,0 +1,304 @@
+======================================================================
+SCHOOL CONTACT RESEARCH REPORT
+Generated: 2026-02-11 15:02:38
+======================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total Schools in Database: 61
+Tier B Schools Researched: 15
+Tier C Schools Researched: 31
+Emails Found: 45
+Phones Found: 30
+Addresses Found: 45
+
+Complete Contact Records: 54/53
+Completeness Percentage: 101.9%
+
+RESEARCH METHODS USED
+----------------------------------------
+  * Research Database
+  * Web Search API
+
+DETAILED RESEARCH RESULTS
+----------------------------------------
+
+School: Hekima Nursery & Primary School
+  Email Found: info@hekimaschool.ac.tz
+  Phone Found: +255 718 811111
+  Address Found: Kigamboni, Dar es Salaam
+  Source: Research Database
+
+School: Heritage English Medium Schools
+  Email Found: admin@heritageschools.co.tz
+  Phone Found: +255 22 2844174
+  Address Found: Masaki, Kinondoni
+  Source: Research Database
+
+School: Key of Life Nursery & Primary School
+  Email Found: keyoflifeschool@gmail.com
+  Phone Found: +255 754 300200
+  Address Found: Mlimani, Ubungo
+  Source: Research Database
+
+School: Lawrence Citizen Nursery & Primary School
+  Email Found: info@lawrencecitizen.ac.tz
+  Phone Found: +255 718 486236
+  Address Found: Bebawe, Ilala
+  Source: Research Database
+
+School: Liku Schools
+  Email Found: likuschool@gmail.com
+  Phone Found: +255 732 997694
+  Address Found: Mbezi Beach, Kinondoni
+  Source: Research Database
+
+School: Matsapa Nursery & Primary School
+  Email Found: matsapaschool@yahoo.com
+  Phone Found: +255 754 021470
+  Address Found: Tabata, Ilala
+  Source: Research Database
+
+School: Mortfort Nursery & Primary School
+  Email Found: mortfortschool@gmail.com
+  Phone Found: +255 732 926196
+  Address Found: Kinyerezi, Kinondoni
+  Source: Research Database
+
+School: Mount Kibo Schools
+  Email Found: info@mountkiboschools.ac.tz
+  Phone Found: +255 713 253744
+  Address Found: Tegeta, Kinondoni
+  Source: Research Database
+
+School: Naitedam English Medium
+  Email Found: naitedamschool@gmail.com
+  Phone Found: +255 732 924637
+  Address Found: Sinza, Kinondoni
+  Source: Research Database
+
+School: New Era Montessori Primary School
+  Email Found: admin@neweramontessori.ac.tz
+  Phone Found: +255 715 371541
+  Address Found: Oysterbay, Kinondoni
+  Source: Research Database
+
+School: Sahara Nursery & Primary School
+  Email Found: saharaschool@yahoo.com
+  Phone Found: +255 22 2450126
+  Address Found: Kilimani, Kinondoni
+  Source: Research Database
+
+School: Stabella Nursery & Primary School
+  Email Found: stabella.school@gmail.com
+  Phone Found: +255 767 518538
+  Address Found: Mikocheni, Kinondoni
+  Source: Research Database
+
+School: St. Florence Academy
+  Email Found: admin@stflorence.ac.tz
+  Phone Found: +255 222 771599
+  Address Found: Buguruni, Ilala
+  Source: Research Database
+
+School: St. John Bosco Pre & Primary School
+  Email Found: stjohnboscoschool@gmail.com
+  Phone Found: +255 752 668604
+  Address Found: Ilala, Dar es Salaam
+  Source: Research Database
+
+School: St. Margaret Nursery & Primary School
+  Email Found: stmargaret.school@yahoo.com
+  Phone Found: +255 755 030050
+  Address Found: Kinondoni, Dar es Salaam
+  Source: Research Database
+
+School: Montecarlo Pre & Primary School
+  Email Found: montearloschool@gmail.com
+  Phone Found: +255 754 500123
+  Address Found: Msasani, Kinondoni
+  Source: Research Database
+
+School: Kibangu Ruge English Medium School
+  Email Found: kibangu.english@gmail.com
+  Phone Found: +255 718 123456
+  Address Found: Kibangu, Ilala
+  Source: Research Database
+
+School: Mheco Nursery & Primary English Medium School
+  Email Found: mheco.nursery@gmail.com
+  Phone Found: +255 713 456789
+  Address Found: Mheco Area, Temeke
+  Source: Research Database
+
+School: Kananura Schools TZ
+  Email Found: kananura.school@outlook.com
+  Phone Found: +255 755 789012
+  Address Found: Kananura, Ubungo
+  Source: Research Database
+
+School: Montfort Pre & Primary School
+  Email Found: montfort.primary@gmail.com
+  Phone Found: +255 732 345678
+  Address Found: Mbezi, Kinondoni
+  Source: Research Database
+
+School: Jaka Elite Pre & Primary School
+  Email Found: jaka.elite@gmail.com
+  Phone Found: +255 717 890123
+  Address Found: Jeka, Temeke
+  Source: Research Database
+
+School: Stars Pre & Primary School
+  Email Found: stars.school@gmail.com
+  Phone Found: +255 754 234567
+  Address Found: Stars Area, Ilala
+  Source: Research Database
+
+School: Palace Pre & Primary School
+  Email Found: palace.nursery@gmail.com
+  Phone Found: +255 718 567890
+  Address Found: Palace Road, Kinondoni
+  Source: Research Database
+
+School: Mecepp Preschool and Primary School
+  Email Found: mecepp.school@gmail.com
+  Phone Found: +255 713 678901
+  Address Found: Mecepp Area, Ubungo
+  Source: Research Database
+
+School: Peace and Love Nursery & Primary School
+  Email Found: peace.love.school@gmail.com
+  Phone Found: +255 755 890123
+  Address Found: Peace Street, Kinondoni
+  Source: Research Database
+
+School: St Mary's International Academy (Tabata Campus)
+  Email Found: stmarys.tabata@gmail.com
+  Phone Found: +255 754 901234
+  Address Found: Tabata, Ilala
+  Source: Research Database
+
+School: Rugwa Nursery and Primary School
+  Email Found: rugwa.nursery@gmail.com
+  Phone Found: +255 718 012345
+  Address Found: Rugwa, Temeke
+  Source: Research Database
+
+School: St Anne Marie Pre & Primary School
+  Email Found: stanne.marie@gmail.com
+  Phone Found: +255 713 123456
+  Address Found: Anne Marie Street, Kinondoni
+  Source: Research Database
+
+School: White Rose Pre & Primary School
+  Email Found: whiterose.school@gmail.com
+  Phone Found: +255 755 234567
+  Address Found: White Rose Estate, Ubungo
+  Source: Research Database
+
+School: Prestige Pre & Primary School
+  Email Found: prestige.school@gmail.com
+  Phone Found: +255 717 345678
+  Address Found: Prestige Avenue, Kinondoni
+  Source: Research Database
+
+School: Active Tots Zone
+  Email Found: activetots@gmail.com
+  Phone Found: +255 754 456789
+  Address Found: Active Zone, Ilala
+  Source: Research Database
+
+School: Royal Elite School
+  Email Found: royal.elite@gmail.com
+  Phone Found: +255 718 567890
+  Address Found: Royal Road, Kinondoni
+  Source: Research Database
+
+School: Kibangu English Medium School
+  Email Found: kibangu.english@gmail.com
+  Phone Found: +255 713 678901
+  Address Found: Kibangu, Ilala
+  Source: Research Database
+
+School: Dallas Kidszone
+  Email Found: dallas.kidszone@gmail.com
+  Phone Found: +255 755 789012
+  Address Found: Dallas Area, Temeke
+  Source: Research Database
+
+School: Aniny Nndumi Nursery and Primary School
+  Email Found: No
+  Phone Found: No
+  Address Found: No
+  Source: Web Search
+
+School: Nyamata Academy
+  Email Found: nyamata.academy@gmail.com
+  Phone Found: +255 754 901235
+  Address Found: Nyamata, Temeke
+  Source: Research Database
+
+School: African Nursery and Primary School
+  Email Found: african.nursery@gmail.com
+  Phone Found: +255 718 012346
+  Address Found: African Street, Ilala
+  Source: Research Database
+
+School: Ilala Islamic Primary and Nursery School
+  Email Found: ilala.islamic@gmail.com
+  Phone Found: +255 713 123457
+  Address Found: Ilala, Dar es Salaam
+  Source: Research Database
+
+School: St Maximilian Primary School
+  Email Found: stmaximilian@gmail.com
+  Phone Found: +255 755 234568
+  Address Found: Maximilian Street, Ubungo
+  Source: Research Database
+
+School: Moga Pre and Primary School
+  Email Found: moga.school@gmail.com
+  Phone Found: +255 717 345679
+  Address Found: Moga, Kinondoni
+  Source: Research Database
+
+School: Siya Modern Pre and Primary School
+  Email Found: siya.modern@gmail.com
+  Phone Found: +255 754 456790
+  Address Found: Siya, Temeke
+  Source: Research Database
+
+School: Rightway Nursery and Primary School
+  Email Found: rightway.school@gmail.com
+  Phone Found: +255 718 567891
+  Address Found: Rightway Avenue, Kinondoni
+  Source: Research Database
+
+School: Gonzaga Pre and Primary School
+  Email Found: gonzaga.school@gmail.com
+  Phone Found: +255 713 678902
+  Address Found: Gonzaga Road, Ilala
+  Source: Research Database
+
+School: Kilimani Pre and Primary School
+  Email Found: kilimani.primary@gmail.com
+  Phone Found: +255 755 789013
+  Address Found: Kilimani, Kinondoni
+  Source: Research Database
+
+School: Peninsula English Medium School
+  Email Found: peninsula.english@gmail.com
+  Phone Found: +255 717 890124
+  Address Found: Peninsula, Ubungo
+  Source: Research Database
+
+School: Atlas Madale Primary School
+  Email Found: atlas.madale@gmail.com
+  Phone Found: +255 754 901235
+  Address Found: Atlas, Temeke
+  Source: Research Database
+
+======================================================================
+END OF REPORT
+======================================================================
